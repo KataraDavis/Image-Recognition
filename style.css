@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(61, 160, 253);
+    color: rgb(0, 0, 0);
+}
+
+.heading{
+    width: 100%;
+    margin: 0px;
+    font-size: 23px;
+    font-family: serif;
+    font-style: italic;
+}
+
+.name_of_objects{
+    font-style: italic;
+    font-size: 18px;
+    color: rgb(38, 202, 243);
+    text-shadow: 2px 2px 5px black;
+}
+
+#camera{
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+}
